@@ -19,7 +19,7 @@ This project analyzes the sales performance of **AtliQ Hardware**, a pan-India h
 
 ---
 
-## 🛠 Tools & Techniques
+##  Tools & Techniques
 - **Power BI Desktop** for data modeling and visualization
 - **Power Query** for data cleaning and transformation
 - **MySQL** for data extraction and exploration
